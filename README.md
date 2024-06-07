@@ -1,2 +1,2 @@
-# louk
-Louk
+# loukie
+Loukie App
